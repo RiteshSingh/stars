@@ -11,5 +11,5 @@ Right click on a galaxy: <b>Select and color it <span style='color:#0f0;'>green<
 Point at a colored galaxy (except last colored): <b>Turn it back to white</b><br>
 Milky Way: <b>Always <span style='color:#f0f;'>magenta</span></b></p>
 
-### [Link to the Simulation](https://riteshsingh.github.io/galaxies/)
+### [Link to the Simulation](https://riteshsingh.github.io/stars/)
 ### [Link to the Paper](https://docs.google.com/document/d/1kfADRYLTP8uvYLBO4Ns8v67INUrGJBcTXrZbaE9wX8E/edit?usp=sharing)
